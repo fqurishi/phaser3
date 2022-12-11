@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "CH1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1035,
+				"h": 122
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Gun_Stand.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 94,
+						"h": 120
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 94,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Climbing _01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 0,
+						"w": 46,
+						"h": 120
+					},
+					"frame": {
+						"x": 97,
+						"y": 1,
+						"w": 46,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Climbing _02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 0,
+						"w": 46,
+						"h": 120
+					},
+					"frame": {
+						"x": 145,
+						"y": 1,
+						"w": 46,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Stand.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 0,
+						"w": 46,
+						"h": 120
+					},
+					"frame": {
+						"x": 193,
+						"y": 1,
+						"w": 46,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Gun_Walk.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 126,
+						"h": 117
+					},
+					"frame": {
+						"x": 241,
+						"y": 1,
+						"w": 126,
+						"h": 117
+					}
+				},
+				{
+					"filename": "Walk.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 3,
+						"w": 94,
+						"h": 117
+					},
+					"frame": {
+						"x": 369,
+						"y": 1,
+						"w": 94,
+						"h": 117
+					}
+				},
+				{
+					"filename": "Death_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 3,
+						"w": 86,
+						"h": 117
+					},
+					"frame": {
+						"x": 465,
+						"y": 1,
+						"w": 86,
+						"h": 117
+					}
+				},
+				{
+					"filename": "Damage_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 3,
+						"w": 66,
+						"h": 117
+					},
+					"frame": {
+						"x": 553,
+						"y": 1,
+						"w": 66,
+						"h": 117
+					}
+				},
+				{
+					"filename": "Damage_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 3,
+						"w": 58,
+						"h": 117
+					},
+					"frame": {
+						"x": 621,
+						"y": 1,
+						"w": 58,
+						"h": 117
+					}
+				},
+				{
+					"filename": "Death_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 7,
+						"w": 102,
+						"h": 113
+					},
+					"frame": {
+						"x": 681,
+						"y": 1,
+						"w": 102,
+						"h": 113
+					}
+				},
+				{
+					"filename": "Death_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 15,
+						"w": 114,
+						"h": 105
+					},
+					"frame": {
+						"x": 785,
+						"y": 1,
+						"w": 114,
+						"h": 105
+					}
+				},
+				{
+					"filename": "Death_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 35,
+						"w": 133,
+						"h": 85
+					},
+					"frame": {
+						"x": 901,
+						"y": 1,
+						"w": 133,
+						"h": 85
+					}
+				},
+				{
+					"filename": "Death_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 152,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 91,
+						"w": 133,
+						"h": 29
+					},
+					"frame": {
+						"x": 901,
+						"y": 88,
+						"w": 133,
+						"h": 29
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0f76cc1ec5e4bfedef542a81c27a3dda:b11a8777386519c31de3197988c78830:4b1915eab865378c3c5b13db978d6a44$"
+	}
+}
